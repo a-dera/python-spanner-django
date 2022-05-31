@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.2](https://github.com/googleapis/python-spanner-django/compare/v3.0.1...v3.0.2) (2022-05-31)
+
+
+### Documentation
+
+* Add limitations docs on spanner features not supported by spanner-django library. ([#758](https://github.com/googleapis/python-spanner-django/issues/758)) ([66469bf](https://github.com/googleapis/python-spanner-django/commit/66469bf72dd57555d6729f8863d7d401b7f6613e))
+
 ### [3.0.1](https://github.com/googleapis/python-spanner-django/compare/v3.0.0...v3.0.1) (2022-02-07)
 
 
